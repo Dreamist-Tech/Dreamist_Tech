@@ -1,37 +1,17 @@
 ## 欢迎来到我的主页
 
-You can use the [editor on GitHub](https://github.com/Dreamist-Tech/MyWeb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+目前不知道写点啥
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 瞎搞
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我随便写写，你们随便看看。
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+我目前在做点云处理，自己开发算法和功能，后面想把算法变成程序，有GUI的那种。
 
-- Bulleted
-- List
+代码主要是matlab和python的，也是我最熟悉的两个语言，总体上matlab>python，python属于边学边做
 
-1. Numbered
-2. List
+想搞事情的小伙伴可以 **写ISSUE** 留个联系方式。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dreamist-Tech/MyWeb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
